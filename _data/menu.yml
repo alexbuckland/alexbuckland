@@ -1,0 +1,11 @@
+docs_list_title: Alex Buckland
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Bio
+  url: bio.html
+
+- title: Contact
+  url: contact.html

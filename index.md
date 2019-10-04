@@ -1,5 +1,4 @@
-# Alex Buckland
-Running in the family
-## Coming later
+##Running in the family
+### Coming later
 
 [Bio](about.md)
